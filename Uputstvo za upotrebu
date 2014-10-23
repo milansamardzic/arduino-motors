@@ -1,0 +1,13 @@
+w - oba naprijed
+s - oba nazad
+a - lijevo
+d - desno
+p - pauza
+
+q - jedan naprijed 		 (f2 pin3, pin4)            	//desni - nazad
+
+e - jedan nazad 			 (f2_1 pin3, pin4) 	//desni - naprijed
+
+r - drugi naprijed			 (f1 pin1, pin2)		//lijevi - nazad
+
+t - drugi nazad			 (f1_1 pin1, pin2)		//lijevi - naprijed
